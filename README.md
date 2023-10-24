@@ -5,6 +5,8 @@ A protocol to manifest how a CLI works
 When using a CLI you have to use `XXX --help` or `man XXX` or `tldr XXXX` to understand it's functions and arguments.
 And keeping this information in your interal flesh-memory, you then write commands. 
 
+Or you write arguments out of order, or with the wrong type
+
 But why could not the terminal be more helpful?
 
 We have autocompletion, but this is not shell agnostic, and sometimes annoying to set up.
